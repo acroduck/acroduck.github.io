@@ -1,7 +1,3 @@
-style.css
-
-
- style.css ( ASCII C program text )
 	@charset "utf-8";
 /*------------------------------------*\
     $RESET
@@ -85,8 +81,8 @@ html {
     /* background-color: #f6f9f9; */
 	/* background-image: url("http://i.imgur.com/qqSkbpy.jpg"); */
 	/* background-size: cover; */
-   color: #95a4a9;
-	/* color: #000; */
+   /* color: #95a4a9; */
+	color: #000;
 }
 
 .MainTable {
